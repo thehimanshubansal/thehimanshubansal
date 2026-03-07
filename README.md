@@ -1,10 +1,13 @@
 <h1 align="center"> Hi 👋🏻, I'm Himanshu Bansal </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Exploring+new+concepts+⚡;Turning+ideas+into+products+🚀;Full+Stack+Developer+%26+ML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Exploring+new+concepts+⚡;Turning+ideas+into+products+🚀;AI+%26+ML+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/himanshu-bansal-846528289/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" /></a>
+<a href="mailto:himanshu25b@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+<!-- <a href="https://huggingface.co/HorizonByte" target="_blank"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-000?style=for-the-badge&logo=huggingface&logoColor=FFD21E" /></a> -->
+<a href="https://www.kaggle.com/hbistechie" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-000?style=for-the-badge&logo=kaggle&logoColor=20BEFF" /></a>
 <a href="https://www.instagram.com/himanshu.02005?igsh=c3Z6ZXBzcG1kdzN6" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" /></a>
 </p>
 
@@ -33,8 +36,11 @@
 
 #### 🤖 Machine Learning & AI
 ![NLP](https://img.shields.io/badge/-NLP-000?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/-Data_Vis-000?style=for-the-badge&logo=tableau)
 ![Deep Learning](https://img.shields.io/badge/-Deep_Learning-000?style=for-the-badge)
+![Neural Networks](https://img.shields.io/badge/-Neural_Networks-000?style=for-the-badge&logo=intercom&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/-Generative_AI-000?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/-LLMs-000?style=for-the-badge&logo=huggingface)
 
 #### 🗄️ Database & Hosting
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
@@ -46,8 +52,6 @@
 #### ⚙️ DevOps & Version Control
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-000?style=for-the-badge&logo=githubactions)
-![Jenkins](https://img.shields.io/badge/-Jenkins-000?style=for-the-badge&logo=jenkins)
-![CircleCI](https://img.shields.io/badge/-CircleCI-000?style=for-the-badge&logo=circleci)
 
 ---
 
@@ -65,10 +69,6 @@ while life_is_running:
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=thehimanshubansal&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true" alt="Stats" height="180em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehimanshubansal&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact" alt="Langs" height="180em" />
-</p>
 
 <p align="center">
 <img src="https://nirzak-streak-stats.vercel.app/?user=thehimanshubansal&theme=jolly&date_format=j%20M%5B%20Y%5D" alt="Streaks" width="100%" />

@@ -4,54 +4,38 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/himanshu-bansal-846528289/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" /></a>
-<a href="mailto:himanshu25b@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
-<!-- <a href="https://huggingface.co/HorizonByte" target="_blank"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-000?style=for-the-badge&logo=huggingface&logoColor=FFD21E" /></a> -->
-<a href="https://www.kaggle.com/hbistechie" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-000?style=for-the-badge&logo=kaggle&logoColor=20BEFF" /></a>
-<a href="https://www.instagram.com/himanshu.02005?igsh=c3Z6ZXBzcG1kdzN6" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" /></a>
+<a href="https://www.linkedin.com/in/himanshu-bansal-846528289/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:himanshu25b@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.kaggle.com/hbistechie" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+<a href="https://www.instagram.com/himanshu.02005" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 </p>
 
 ---
 
-### 💻 Tech Stack
+### 🚀 Featured Projects
 
-#### 🚀 Languages
-![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/-C%2B%2B-000?style=for-the-badge&logo=c%2B%2B)
-![C](https://img.shields.io/badge/-C-000?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=mysql)
-![R](https://img.shields.io/badge/-R-000?style=for-the-badge&logo=r)
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| [**Aegis**](https://github.com/thehimanshubansal/aegis-repo) | Enterprise Hospitality OS with Vision AI & Real-time SOS | GenAI, WebSockets, GCP |
+| [**HorizonByte**](https://github.com/thehimanshubansal/HorizonByte) | Document-aware RAG AI (No high-level frameworks) | FastAPI, FAISS, Llama 3.3 |
+| [**Disha Darshak**](https://github.com/thehimanshubansal/Disha-Darshak-AI) | AI Career Co-pilot (Top 10 @ Google Cloud GenAI) | Next.js, Gemini, Firebase |
 
-#### 🛠 Frameworks & Libraries
-![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
-![FastAPI](https://img.shields.io/badge/-FastAPI-000?style=for-the-badge&logo=fastapi)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?style=for-the-badge&logo=pytorch)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-000?style=for-the-badge&logo=scikitlearn)
-![Selenium](https://img.shields.io/badge/-Selenium-000?style=for-the-badge&logo=selenium)
-![Streamlit](https://img.shields.io/badge/-Streamlit-000?style=for-the-badge&logo=streamlit)
+---
 
-#### 🤖 Machine Learning & AI
-![NLP](https://img.shields.io/badge/-NLP-000?style=for-the-badge)
-![Data Visualization](https://img.shields.io/badge/-Data_Vis-000?style=for-the-badge&logo=tableau)
-![Deep Learning](https://img.shields.io/badge/-Deep_Learning-000?style=for-the-badge)
-![Neural Networks](https://img.shields.io/badge/-Neural_Networks-000?style=for-the-badge&logo=intercom&logoColor=white)
-![Generative AI](https://img.shields.io/badge/-Generative_AI-000?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/-LLMs-000?style=for-the-badge&logo=huggingface)
+### 🛠 Technical Skills
 
-#### 🗄️ Database & Hosting
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
-![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
-![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
-![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
+- **AI & Machine Learning:** Generative AI, RAG Pipelines, Vector Databases (FAISS), Computer Vision (YOLO), NLP, GNNs (Neural-LAM), Classical ML, Deep Learning.
+- **Frameworks & Libraries:** PyTorch, Keras, Scikit-learn, Pandas, Seaborn, Streamlit, FastAPI, Selenium, FFmpeg, BeautifulSoup.
+- **Backend & Cloud:** Google Cloud Platform (GCP), Firebase, Docker, WebSockets, WebRTC, MongoDB, SQL/RDBMS, Dialogflow.
+- **Languages & Tools:** Python, C/C++, SQL, HTML/CSS, Git, GitHub, Roboflow, VS Code.
 
-#### ⚙️ DevOps & Version Control
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-000?style=for-the-badge&logo=githubactions)
+---
+
+### 💼 Experience & Contributions
+
+- **Open Source Contributor, Neural-LAM:** Refactored graph validation logic into modular architecture; contributed to global weather forecasting integration.
+- **Python Automation Engineer:** Engineered hybrid Selenium/Multi-threading solutions reducing manual processing time by 95% and boosting throughput by 4x.
+- **Lead & Mentor, SAMIDHA:** Overseeing operations and mentoring students in peer-learning workshops for underprivileged learners.
 
 ---
 

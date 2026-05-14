@@ -16,7 +16,7 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [**Aegis**](https://github.com/thehimanshubansal/aegis-repo) | Enterprise Hospitality OS with Vision AI & Real-time SOS | GenAI, WebSockets, GCP |
+| [**Aegis**](https://github.com/thehimanshubansal/AEGIS_Smart_Hospitality) | Enterprise Hospitality OS with Vision AI & Real-time SOS | GenAI, WebSockets, GCP |
 | [**HorizonByte**](https://github.com/thehimanshubansal/HorizonByte) | Document-aware RAG AI (No high-level frameworks) | FastAPI, FAISS, Llama 3.3 |
 | [**Disha Darshak**](https://github.com/thehimanshubansal/Disha-Darshak-AI) | AI Career Co-pilot (Top 10 @ Google Cloud GenAI) | Next.js, Gemini, Firebase |
 

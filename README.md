@@ -1,10 +1,10 @@
-<div align=\"center\">
+<div align="center">
 
 ```
- _  _ ___ __  __   _   _  _ ___ _  _ _   _    ___   _   _  _ ___   _   _
-| || |_ _|  \/  | /_\ | \| / __| || | | | | | | _ ) /_\ | \| / __| /_\ | |
-| __ || || |\/| |/ _ \| .` \__ \ __ | |_| | | _ \/ _ \| .` \__ \/ _ \| |__
-|_||_|___|_|  |_/_/ \_\_|\_|___/_||_|\___/  |___/_/ \_\_|\_|___/_/ \_\____|
+ _  _  ___  __  __   _   _  _  ___  _  _ _   _   ___   _   _  _  ___   _   _
+ | || ||_ _||  \/  | /_\ | \| |/ __ | || | | | | | _ ) /_\ | \| |/ __| /_\ | |
+   | __ | | | | |\/| |/ _ \| .` |\__ \| __ | |_| | | _ \/ _ \| .` |\__ \/ _ \| |__
+    |_||_||___||_|  |_/_/ \_\_|\_||___/|_||_|\___/  |___/_/ \_\_|\_||___/_/ \_\____|
 ```
 
 ```
@@ -15,7 +15,7 @@
 
 <table>
 <tr>
-<td width=\"35%\">
+<td width="35%">
 
 <img src="aleph-symbol.png" width="200" alt="Aleph Core Logo">
 
@@ -29,7 +29,7 @@ digital ecosystems.
 ```
 
 </td>
-<td width=\"65%\" valign=\"middle\">
+<td width="65%" valign="middle">
 
 ### `whoami`
 
@@ -53,10 +53,23 @@ fuel:    filter coffee, cold rain
 
 ---
 
+<div align="center">
+
+### `$ ping himanshu`
+
+[![linkedin](https://img.shields.io/badge/-linkedin-1a1a1a?style=for-the-badge&labelColor=c9a86a&color=1a1a1a)](https://www.linkedin.com/in/himanshu-bansal-846528289/)
+[![mail](https://img.shields.io/badge/-mail-1a1a1a?style=for-the-badge&labelColor=1a1a1a&color=c9a86a)](mailto:himanshu25b@gmail.com)
+[![kaggle](https://img.shields.io/badge/-kaggle-1a1a1a?style=for-the-badge&labelColor=c9a86a&color=1a1a1a)](https://www.kaggle.com/hbistechie)
+[![instagram](https://img.shields.io/badge/-instagram-1a1a1a?style=for-the-badge&labelColor=1a1a1a&color=c9a86a)](https://www.instagram.com/himanshu.02005?igsh=c3Z6ZXBzcG1kdzN6)
+
+</div>
+
+---
+
 ### `~/thoughts.log`
 
-> *\"The best model is the one that survives contact with real users.*
-> *Everything else is a nicely plotted delusion.\"*
+> *"The best model is the one that survives contact with real users.*
+> *Everything else is a nicely plotted delusion."*
 
 ---
 
@@ -90,29 +103,16 @@ fuel:    filter coffee, cold rain
 
 ---
 
-<div align=\"center\">
-
-### `$ ping himanshu`
-
-[![linkedin](https://img.shields.io/badge/-linkedin-1a1a1a?style=for-the-badge&labelColor=c9a86a&color=1a1a1a)](https://www.linkedin.com/)
-[![mail](https://img.shields.io/badge/-mail-1a1a1a?style=for-the-badge&labelColor=1a1a1a&color=c9a86a)](mailto:abc@gmail.com)
-[![kaggle](https://img.shields.io/badge/-kaggle-1a1a1a?style=for-the-badge&labelColor=c9a86a&color=1a1a1a)](https://www.kaggle.com)
-[![instagram](https://img.shields.io/badge/-instagram-1a1a1a?style=for-the-badge&labelColor=1a1a1a&color=c9a86a)](https://www.instagram.com/)
-
-</div>
-
----
-
 ### `$ ./stats --live`
 
-<div align=\"center\">
+<div align="center">
 
-<img height=\"165\" src=\"https://github-readme-stats.vercel.app/api?username=thehimanshubansal&show_icons=true&hide_border=true&title_color=c9a86a&icon_color=c9a86a&text_color=cfcfcf&bg_color=0d0d0d&hide=contribs,prs&count_private=true\" />
-<img height=\"165\" src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=thehimanshubansal&layout=compact&hide_border=true&title_color=c9a86a&text_color=cfcfcf&bg_color=0d0d0d&langs_count=8\" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=thehimanshubansal&show_icons=true&hide_border=true&title_color=c9a86a&icon_color=c9a86a&text_color=cfcfcf&bg_color=0d0d0d&hide=contribs,prs&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehimanshubansal&layout=compact&hide_border=true&title_color=c9a86a&text_color=cfcfcf&bg_color=0d0d0d&langs_count=8" />
 
 <br><br>
 
-<img src=\"https://github-readme-streak-stats.herokuapp.com/?user=thehimanshubansal&hide_border=true&background=0d0d0d&stroke=c9a86a&ring=c9a86a&fire=c9a86a&currStreakLabel=c9a86a&sideLabels=cfcfcf&currStreakNum=cfcfcf&sideNums=cfcfcf&dates=cfcfcf\" height=\"165\" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thehimanshubansal&hide_border=true&background=0d0d0d&stroke=c9a86a&ring=c9a86a&fire=c9a86a&currStreakLabel=c9a86a&sideLabels=cfcfcf&currStreakNum=cfcfcf&sideNums=cfcfcf&dates=cfcfcf" height="165" />
 
 </div>
 
@@ -120,10 +120,10 @@ fuel:    filter coffee, cold rain
 
 ### `$ ./contributions --3d`
 
-<div align=\"center\">
+<div align="center">
 
 <!-- 3D graph auto-generated via GitHub Actions (setup below) -->
-<img src=\"https://raw.githubusercontent.com/thehimanshubansal/thehimanshubansal/main/profile-3d-contrib/profile-night-rainbow.svg\" alt=\"3d contribution graph\" />
+<img src="https://raw.githubusercontent.com/thehimanshubansal/thehimanshubansal/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d contribution graph" />
 
 <br>
 
@@ -134,13 +134,12 @@ fuel:    filter coffee, cold rain
 
 ---
 
-<div align=\"center\">
+<div align="center">
 
 ```
-$ echo \"thanks for scrolling. now go build something.\" && exit 0
+$ echo "thanks for scrolling. now go build something." && exit 0
 ```
 
-<sub>crafted at 2am · powered by curiosity · no LLM was harmed in writing this bio</sub>
+<sub>>>  crafted at 2am · powered by curiosity · no LLM was harmed in writing this bio  <<<</sub>
 
 </div>
-"

@@ -16,11 +16,12 @@
 <table>
 <tr>
 <td width="35%">
-
-<img src="aleph-symbol.png" width="200" alt="Aleph Core Logo">
-
-`[SYSTEM]: ./init_golem.sh --breathe`
-
+  <div align="center">
+  <img src="aleph-symbol.png" width="200" alt="Aleph Core Logo">
+  
+  `[SYSTEM]: ./init_golem.sh --breathe`
+  </div>
+  
 ```
 > From dust to data
 > An ancient engine designed to animate cold,
@@ -132,7 +133,7 @@ fuel:    filter coffee, cold rain
 <div align="center">
 
 ```
-$ echo "thanks for scrolling. now go build something." && exit 0
+$ echo "thanks for scrolling. now go build and execute something." && exit 0
 ```
 
 <sub>>>  crafted at 2am · powered by curiosity · no LLM was harmed in writing this bio  <<<</sub>

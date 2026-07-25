@@ -103,14 +103,9 @@ fuel:    filter coffee, cold rain
 
 ---
 
-### `$ ./stats --live`
+### `$ ./streak-stats --live`
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=thehimanshubansal&show_icons=true&hide_border=true&title_color=c9a86a&icon_color=c9a86a&text_color=cfcfcf&bg_color=0d0d0d&hide=contribs,prs&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehimanshubansal&layout=compact&hide_border=true&title_color=c9a86a&text_color=cfcfcf&bg_color=0d0d0d&langs_count=8" />
-
-<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thehimanshubansal&hide_border=true&background=0d0d0d&stroke=c9a86a&ring=c9a86a&fire=c9a86a&currStreakLabel=c9a86a&sideLabels=cfcfcf&currStreakNum=cfcfcf&sideNums=cfcfcf&dates=cfcfcf" height="165" />
 
@@ -128,7 +123,7 @@ fuel:    filter coffee, cold rain
 <br>
 
 <!-- Snake animation auto-generated via GitHub Actions (setup below) -->
-<img src="https://github.com/thehimanshubansal/thehimanshubansal/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/thehimanshubansal/thehimanshubansal/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
 </div>
 

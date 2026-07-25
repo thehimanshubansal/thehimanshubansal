@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: \"0 18 * * *\"   # daily at 18:00 UTC
+    - cron: "0 18 * * *"   # daily at 18:00 UTC
   workflow_dispatch:
   push:
     branches: [main]
@@ -21,8 +21,8 @@ jobs:
 
       - name: Commit and push
         run: |
-          git config user.name  \"github-actions[bot]\"
-          git config user.email \"41898282+github-actions[bot]@users.noreply.github.com\"
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A profile-3d-contrib
-          git commit -m \"chore: update 3d contribution graph\" || echo \"nothing to commit\"
+          git commit -m "chore: update 3d contribution graph" || echo "nothing to commit"
           git push
